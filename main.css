@@ -30,11 +30,16 @@ h3 {
 }
 
 p {
-
+	
 }
 
 .album-art {
-
+	border: 2px darkred solid;
+	padding: 15px;
+	margin: 30px;
+	height: 100px;
+	width: 100px;
+	float: left;
 }
 
 .clear {
@@ -46,7 +51,8 @@ p {
 }
 
 .record-label {
-
+	color: red;
+	font-style: italic;
 }
 
 .track-list {
@@ -54,6 +60,10 @@ p {
 }
 
 #about-photo {
+	border: 2px darkred solid;
+	padding: 12px;
+	margin: 15px;
+	float: left;
 
 }
 
@@ -63,6 +73,8 @@ p {
 
 #section-about, #section-discography, #section-equipment {
 	border: 2px darkred solid;
+	margin: 12px 15px;
+	padding: 15px;
 }
 
 #text-intro {
